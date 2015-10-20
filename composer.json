@@ -1,0 +1,9 @@
+{
+    "name": "thatsus/social-feed",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/thatsus/social-feed.git"
+        }
+    ]
+}
